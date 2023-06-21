@@ -8,14 +8,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>vamos pol!!!!</h1>
+        <h1>Vamos totito!!!!</h1>
         <p>
 
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://polargentino.github.io/github.io-TA_TE_TI/"
           target="_blank"
           rel="noopener noreferrer"
         >
